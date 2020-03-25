@@ -114,8 +114,8 @@ var strObj = {
     str: 'Мама мыла раму, рама мыла маму'
 };
 
-strObj.lenght = strObj.str.length;
-console.log('length: ', strObj );
+strObj.length = strObj.str.length;
+console.log('length: ', strObj.length);
 
 /*
  * #7
